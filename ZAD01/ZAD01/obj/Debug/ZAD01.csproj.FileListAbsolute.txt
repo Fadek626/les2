@@ -1,0 +1,8 @@
+C:\Users\Badreev Azamat\OneDrive\Рабочий стол\ДЗ\МДК 01.01\Visual Studio\3_PARA\ZAD01\ZAD01\bin\Debug\ZAD01.exe.config
+C:\Users\Badreev Azamat\OneDrive\Рабочий стол\ДЗ\МДК 01.01\Visual Studio\3_PARA\ZAD01\ZAD01\bin\Debug\ZAD01.exe
+C:\Users\Badreev Azamat\OneDrive\Рабочий стол\ДЗ\МДК 01.01\Visual Studio\3_PARA\ZAD01\ZAD01\bin\Debug\ZAD01.pdb
+C:\Users\Badreev Azamat\OneDrive\Рабочий стол\ДЗ\МДК 01.01\Visual Studio\3_PARA\ZAD01\ZAD01\obj\Debug\ZAD01.csproj.AssemblyReference.cache
+C:\Users\Badreev Azamat\OneDrive\Рабочий стол\ДЗ\МДК 01.01\Visual Studio\3_PARA\ZAD01\ZAD01\obj\Debug\ZAD01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Badreev Azamat\OneDrive\Рабочий стол\ДЗ\МДК 01.01\Visual Studio\3_PARA\ZAD01\ZAD01\obj\Debug\ZAD01.csproj.CoreCompileInputs.cache
+C:\Users\Badreev Azamat\OneDrive\Рабочий стол\ДЗ\МДК 01.01\Visual Studio\3_PARA\ZAD01\ZAD01\obj\Debug\ZAD01.exe
+C:\Users\Badreev Azamat\OneDrive\Рабочий стол\ДЗ\МДК 01.01\Visual Studio\3_PARA\ZAD01\ZAD01\obj\Debug\ZAD01.pdb
